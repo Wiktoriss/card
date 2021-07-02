@@ -1,0 +1,230 @@
+body{
+    width: 650px;
+    height: 996px; 
+    background-color: #FFFFFF;
+    margin: 0%;
+    
+
+}
+
+#top {
+height: 128px;
+width: 650px;
+background-color: #FFFFFF;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+
+
+}
+
+#heading {
+position: relative;
+min-height: 300px;
+width: 650px;
+background: #F8F8F8;
+padding-left: 80px;
+padding-right: 80px;
+padding-top: 56px;
+padding-bottom: 56px;
+
+
+
+}
+#main{
+width: 650px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+padding-left: 80px;
+padding-right: 80px;
+padding-top: 32px;
+padding-bottom: 48px;
+
+
+
+}
+
+.main-inner{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+#adress{
+
+color: #828282;
+font-family: Arial;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    
+}
+#logo2{
+
+    width: 60%;
+    height: 61.69px;
+    
+
+}
+
+#infolinia {
+   
+    width: 40%;
+    font-family: Arial;
+    font-size: 16px;
+    line-height: 30%;
+    text-align: right;
+    
+        
+        }
+
+.adres{
+    
+float: left;
+height: 84px;
+width: 490px;
+left: 80px;
+top: 176px;
+border-radius: 0px;
+
+}
+
+
+
+
+#footer {
+height: 64px;
+width: 650px;
+background: #9613A5;
+padding-left: 80px;
+padding-right: 80px;
+display: flex;
+justify-content: center;
+font-family: Blogger Sans;
+font-weight: bold;
+font-size: 24px;
+color: #FFFFFF;
+
+}
+
+#logo_top{
+
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    width: 300px;
+    height: 150px;
+    
+    
+}
+
+#line{
+height: 16px;
+width: 32px;
+display: flex;
+justify-content: center;
+
+}
+
+
+#cztery{
+    top: 10px;
+    right: 0;
+    position: absolute;
+    width: 290px;
+    height: 300px;
+
+   
+
+}
+
+#piec{
+    bottom: 10px;
+    right: 0;
+    position: absolute;
+    height: 156px;
+    width: 377px;
+
+
+    
+    
+}
+ul{
+  
+    flex-direction: row;
+    list-style-type: none;
+    text-align: right;
+    margin-top: 0px;
+
+    
+}
+
+li{
+    margin-right: 14px;
+    display: inline;
+    vertical-align: middle;
+    padding-left: 8px;
+    
+  
+}
+
+
+
+img{
+    display: flex;
+    justify-content: center;
+}
+
+
+    
+.zyczenia{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 50%;
+    left: 80px;
+    top: 56px;
+}
+
+#adres {
+width: 100%;
+display: block;
+font-family: Arial;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+
+.to-right{
+    display: flex;
+    justify-content: flex-end;
+
+}
+.to-left{
+    display: flex;
+    justify-content: flex-start;
+
+}
